@@ -1,0 +1,2 @@
+# Dexlator
+Translate Pokémon names
