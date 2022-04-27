@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "UnownText";
+    src: url("/fonts/Unown.ttf") format('truetype');
+  }
+  
+body{
+    background-color: crimson;
+    color: rgb(160, 0, 0);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(200, 0, 40);
+}
+
+body h1{
+    font-family: "UnownText";
+    margin: 5%;
+    text-align: center;
+    font-size: 4em;
+}
+
+footer{
+    text-align: center;
+    position:absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background:rgb(160, 0, 0);
+    color: crimson;
+}
+
+footer span{
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
+
+#jynx{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    width: 40vh;
+    height: 40vh;
+}
+
+#main{
+    background-color: black;
+    position: relative;
+    margin: 0 auto;
+    padding: 2%;
+    border-radius: 10%;
+    width: 50vh;
+    height: 25vh;
+}
+
+#main textarea{
+    background-color: blanchedalmond;
+    width: 90%;
+    height: 70%;
+    border-radius: 10%;
+    padding: 5%;
+    resize: none;
+}
+
+#main label{
+    color: blanchedalmond;
+    border-radius: 10%;
+}
