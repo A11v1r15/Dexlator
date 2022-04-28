@@ -103,7 +103,9 @@ let elementDexlatorClose = document.createElement("a");
 
 elementDexlator.style.position = "absolute"; 
 elementDexlator.style.background = "white";
+elementDexlatorFrom.ariaLabel = "From";
 elementDexlatorFrom.style.margin = "5px";
+elementDexlatorTo.ariaLabel = "To";
 elementDexlatorTo.style.margin = "5px";
 elementDexlatorGo.style.margin = "5px";
 elementDexlatorClose.style.textDecoration = "none";
@@ -112,6 +114,7 @@ elementDexlatorClose.style.margin = "5px";
 getDatabase();
 
 elementDexlatorGo.textContent = "Go";
+elementDexlatorGo.type = "button";
 elementDexlatorGo.onclick = () => translate();
 elementDexlatorClose.textContent = "✖";
 elementDexlatorClose.onclick = () => elementDexlator.remove();
