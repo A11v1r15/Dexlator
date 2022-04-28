@@ -13,21 +13,45 @@ function getDatabase(){
 
 function makeDroplists(){
     let fromOptions = [];
+    let fromOptionElements = [];
+    let toOptionElements = [];
     dexlatorDatabase.split("\n")[0].split(",").forEach((element, index) => {
         let option = document.createElement("option");
         option.value = index;
         option.text = element.trim();
         if(!option.text.includes("!")){
-            elementDexlatorTo.appendChild(option);
+            toOptionElements.push(option);
         }
         if(!fromOptions.includes(element.trim().split("_")[0])){
             let option2 = document.createElement("option");
             option2.value = element.trim().split("_")[0];
             option2.text = element.trim().split("_")[0];
-            elementDexlatorFrom.appendChild(option2);
+            fromOptionElements.push(option2);
             fromOptions.push(element.trim().split("_")[0]);
         }
     });
+    fromOptionElements.sort((a, b) => {
+        if (a.text.toUpperCase() > b.text.toUpperCase())
+            return 1;
+        else if (a.text.toUpperCase() < b.text.toUpperCase())
+            return -1;
+        else
+            return 0;
+    });
+    toOptionElements.sort((a, b) => {
+        if (a.text.toUpperCase() > b.text.toUpperCase())
+            return 1;
+        else if (a.text.toUpperCase() < b.text.toUpperCase())
+            return -1;
+        else
+            return 0;
+    });
+    fromOptionElements.forEach(element => {
+        elementDexlatorFrom.appendChild(element);
+    })
+    toOptionElements.forEach(element => {
+        elementDexlatorTo.appendChild(element);
+    })
 }
 
 function insertMenu(){
@@ -77,17 +101,17 @@ let elementDexlatorClose = document.createElement("a");
 
 elementDexlator.style.position = "absolute"; 
 elementDexlator.style.background = "white";
-elementDexlatorFrom.style.margin = "10px";
-elementDexlatorTo.style.margin = "10px";
-elementDexlatorGo.style.margin = "10px";
+elementDexlatorFrom.style.margin = "5px";
+elementDexlatorTo.style.margin = "5px";
+elementDexlatorGo.style.margin = "5px";
 elementDexlatorClose.style.textDecoration = "none";
-elementDexlatorClose.style.margin = "10px";
+elementDexlatorClose.style.margin = "5px";
 
 getDatabase();
 
 elementDexlatorGo.textContent = "Go";
 elementDexlatorGo.onclick = () => translate();
-elementDexlatorClose.textContent = "X";
+elementDexlatorClose.textContent = "✖";
 elementDexlatorClose.onclick = () => elementDexlator.remove();
 
 elementDexlator.appendChild(elementDexlatorFrom);
