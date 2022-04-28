@@ -86,10 +86,12 @@ function translate(){
         db.sort((a, b) => b.split(",")[from].length - a.split(",")[from].length);
         db.forEach((element) => {
             let pokeFrom = element.split(",")[from];
-            if(pokeFrom.length > 2 && pokeTo.length > 2 ){
+            if(pokeFrom.length > 2){
                 pokeFrom = new RegExp('('+pokeFrom+')', 'gi');
                 let pokeTo = element.split(",")[to];
-                dexlatorTextarea.value = dexlatorTextarea.value.replace(pokeFrom, pokeTo);
+                if(pokeTo.length > 2 ){
+                    dexlatorTextarea.value = dexlatorTextarea.value.replace(pokeFrom, pokeTo);
+                }
             }
         });
     });
