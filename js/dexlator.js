@@ -7,7 +7,7 @@ let dexlatorDatabase;
 function getDatabase(){
     fetch("csv/pokemon.csv")
         .then(response => response.text())
-        .then(text => dexlatorDatabase = text.trim())
+        .then(text => dexlatorDatabase = text.trim().replace('\r', ""))
         .then(() => makeDroplists());
 }
 
