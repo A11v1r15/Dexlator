@@ -12,23 +12,17 @@ function getDatabase(){
 }
 
 function makeDroplists(){
-    let fromOptions = [];
     let fromOptionElements = [];
     let toOptionElements = [];
     dexlatorDatabase.split("\n")[0].split(",").forEach((element, index) => {
         let option = document.createElement("option");
         option.value = index;
         option.text = element.trim();
-        if(!option.text.includes("!")){
-            toOptionElements.push(option);
-        }
-        if(!fromOptions.includes(element.trim().split("_")[0])){
-            let option2 = document.createElement("option");
-            option2.value = element.trim().split("_")[0];
-            option2.text = element.trim().split("_")[0];
-            fromOptionElements.push(option2);
-            fromOptions.push(element.trim().split("_")[0]);
-        }
+        toOptionElements.push(option);
+        let option2 = document.createElement("option");
+        option2.value = index;
+        option2.text = element.trim();
+        fromOptionElements.push(option2);
     });
     fromOptionElements.sort((a, b) => {
         if (a.text.toUpperCase() > b.text.toUpperCase())
@@ -72,28 +66,20 @@ function reportWindowSize(){
 }
 
 function translate(){
-    let fromCode = elementDexlatorFrom.value;
+    let from = elementDexlatorFrom.value;
     let to = elementDexlatorTo.value;
-    let db = dexlatorDatabase.split("\n").reverse();
-    let headers = db.pop().split(",");
-    let froms = [];
-    headers.forEach((element, index) => {
-        if(element.includes(fromCode)){
-            froms.push(index);
-        }
-    })
-    froms.forEach((from) => {
-        db.sort((a, b) => b.split(",")[from].length - a.split(",")[from].length);
-        db.forEach((element) => {
-            let pokeFrom = element.split(",")[from];
-            if(pokeFrom.trim().length > 0){
-                pokeFrom = new RegExp('('+pokeFrom+')', 'gi');
-                let pokeTo = element.split(",")[to];
-                if(pokeTo.trim().length > 0){
-                    dexlatorTextarea.value = dexlatorTextarea.value.replace(pokeFrom, pokeTo);
-                }
+    let db = dexlatorDatabase.split("\n")
+    db.pop().split(",");
+    db.sort((a, b) => b.split(",")[from].length - a.split(",")[from].length);
+    db.forEach((element) => {
+        let pokeFrom = element.split(",")[from];
+        if(pokeFrom.trim().length > 0){
+            pokeFrom = new RegExp('('+pokeFrom+')', 'gi');
+            let pokeTo = element.split(",")[to];
+            if(pokeTo.trim().length > 0){
+                dexlatorTextarea.value = dexlatorTextarea.value.replace(pokeFrom, pokeTo);
             }
-        });
+        }
     });
 }
 
