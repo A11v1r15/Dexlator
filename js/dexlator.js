@@ -74,7 +74,7 @@ function translate(){
     db.forEach((element) => {
         let pokeFrom = element.split(",")[from].trim();
         if(pokeFrom.length > 0){
-            pokeFrom = new RegExp('('+pokeFrom+')', 'gi');
+            pokeFrom = new RegExp('\\b'+pokeFrom+'\\b', 'gi');
             let pokeTo = element.split(",")[to].trim();
             if(pokeTo.length > 0){
                 dexlatorTextarea.value = dexlatorTextarea.value.replace(pokeFrom, pokeTo);
