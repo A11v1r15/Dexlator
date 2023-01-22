@@ -1805,56 +1805,54 @@ Wildbolt Storm,Electormenta,Tempesta Tonante,かみなりあらし,Kaminari Aras
 Sandsear Storm,Simún de Arena,Tempesta Ardente,ねっさのあらし,Nessa no Arashi,Wüstenorkan,Typhon Pyrosable,열사의폭풍,Yeolsa-ui Pokpung,热沙风暴,熱沙風暴,熱沙風暴
 Lunar Blessing,Plegaria Lunar,Invocaluna,みかづきのいのり,Mikadzuki no Inori,Lunargebet,Prière Lunaire,초승달의기도,Choseungdar-ui Gido,新月祈祷,新月祈禱,新月祈禱
 Take Heart,Bálsamo Osado,Baldimpulso,ブレイブチャージ,Bureibu Chāji,Mutschub,Extravaillance,브레이브차지,Brave Charge,勇气填充,勇氣填充,勇氣填充
-Tera Blast,Teraexplosión,Terascoppio,テラバースト,,Tera-Ausbruch,Téra Explosion,테라버스트,,太晶爆发,太晶爆發,太晶爆發
-Silk Trap,Telatrampa,Telatrappola,スレッドトラップ,,Fadenfalle,Piège de Fil,스레드트랩,,线阱,線阱,線阱
-Axe Kick,Patada Hacha,Calcio ad Ascia,かかとおとし,,Fersenkick,Talon-Marteau,발꿈치찍기,,下压踢,下壓踢,下壓踢
-Last Respects,Homenaje Póstumo,Omaggio ai KO,おはかまいり,,Letzte Ehre,Hommage Posthume,성묘,,扫墓,掃墓,掃墓
-Lumina Crash,Fotocolisión,Fotocollisione,ルミナコリジョン,,Lichteinschlag,Lumino-Impact,루미나콜리전,,琉光冲激,琉光衝激,琉光衝激
-Order Up,Oído Cocina,Alta Cucina,いっちょうあがり,,Auftischen,Plat du Jour,한판내기,,上菜,上菜,上菜
-Jet Punch,Puño Jet,Pugnojet,ジェットパンチ,,Düsenhieb,Poing Sonique,제트펀치,,喷射拳,噴射拳,噴射拳
-Spicy Extract,Extracto Picante,Essenza Piccante,ハバネロエキス,,Chili-Essenz,Habanerage,하바네로엑기스,,辣椒精华,辣椒精華,辣椒精華
-Spin Out,Quemarrueda,Slittaruote,ホイールスピン,,Reifendrehung,Dérapage,휠스핀,,疾速转轮,疾速轉輪,疾速轉輪
-Population Bomb,Proliferación,Infestazione,ネズミざん,,Mäuseplage,Prolifération,찍찍베기,,鼠数儿,鼠數兒,鼠數兒
-Ice Spinner,Pirueta Helada,Vortighiaccio,アイススピナー,,Eiskreisel,Cryo-Pirouette,아이스스피너,,冰旋,冰旋,冰旋
-Glaive Rush,Asalto Espadón,Spadoncarica,きょけんとつげき,,Großklingenstoß,Charge Glaive,대검돌격,,巨剑突击,巨劍突擊,巨劍突擊
-Revival Blessing,Plegaria Vital,Preghiera Vitale,さいきのいのり,,Vitalsegen,Second Souffle,회생의기도,,复生祈祷,復生祈禱,復生祈禱
-Salt Cure,Salazón,Sotto Sale,しおづけ,,Pökelsalz,Salaison,소금절이,,盐腌,鹽醃,鹽醃
-Triple Dive,Triple Inmersión,Triplo Tuffo,トリプルダイブ,,Tauchtriade,Triple Plongeon,트리플다이브,,三连钻,三連鑽,三連鑽
-Mortal Spin,Giro Mortífero,Glitturbine,キラースピン,,Letalwirbler,Toupie Éclat,킬러스핀,,晶光转转,晶光轉轉,晶光轉轉
-Doodle,Decalcomanía,Ricalco,うつしえ,,Abpausen,Décalquage,베껴그리기,,描绘,描繪,描繪
-Fillet Away,Deslome,Alleggerimento,みをけずる,,Abspaltung,Décharnement,제살깎기,,甩肉,甩肉,甩肉
-Kowtow Cleave,Genufendiente,Genufendente,ドゲザン,,Kniefallspalter,Génusection,도각참,,仆刀,仆斬,仆斬
-Flower Trick,Truco Floral,Prestigiafiore,トリックフラワー,,Blumentrick,Magie Florale,트릭플라워,,千变万花,千變萬花,千變萬花
-Torch Song,Canto Ardiente,Canzone Ardente,フレアソング,,Loderlied,Chant Flamboyant,플레어송,,闪焰高歌,閃焰高歌,閃焰高歌
-Aqua Step,Danza Acuática,Idroballetto,アクアステップ,,Wogentanz,Danse Aquatique,아쿠아스텝,,流水旋舞,流水旋舞,流水旋舞
-Raging Bull,Furia Taurina,Scatenatoro,レイジングブル,,Rasender Stier,Taurogne,레이징불,,怒牛,怒牛,怒牛
-Make It Rain,Fiebre Dorada,Corsa all’Oro,ゴールドラッシュ,,Goldrausch,Ruée d’Or,골드러시,,淘金潮,淘金潮,淘金潮
-Pound,Destructor,Botta,はたく,,Klaps,Écras’Face,막치기,,拍击,拍擊,拍擊
-Pound,Destructor,Botta,はたく,,Klaps,Écras’Face,막치기,,拍击,拍擊,拍擊
-Ruination,Calamidad,Catastrofe,カタストロフィ,,Verderben,Cataclysme,카타스트로피,,大灾难,大災難,大災難
-Collision Course,Nitrochoque,Turboschianto,アクセルブレイク,,Kollisionskurs,Nitro Crash,액셀브레이크,,全开猛撞,全開猛撞,全開猛撞
-Electro Drift,Electroderrape,Fulmiscatto,イナズマドライブ,,Blitztour,Turbo Volt,라이트닝드라이브,,闪电猛冲,閃電猛衝,閃電猛衝
-Shed Tail,Autotomía,Tagliacoda,しっぽきり,,Schwanzabwurf,Queulonage,꼬리자르기,,断尾,斷尾,斷尾
-Chilly Reception,Fría Acogida,Freddura,さむいギャグ,,Eisige Stimmung,Neigeux de Mots,썰렁개그,,冷笑话,冷笑話,冷笑話
-Tidy Up,Limpieza General,Pulizie,おかたづけ,,Aufräumen,Grand Nettoyage,정리정돈,,大扫除,大掃除,大掃除
-Snowscape,Paisaje Nevado,Vista Innevata,ゆきげしき,,Schneelandschaft,Chute de Neige,설경,,雪景,雪景,雪景
-Pounce,Brinco,Balzo,とびつく,,Anspringen,Bond,달려들기,,虫扑,蟲撲,蟲撲
-Trailblaze,Abrecaminos,Apripista,くさわけ,,Wegbereiter,Désherbaffe,개척하기,,起草,起草,起草
-Chilling Water,Agua Fría,Doccia Fredda,ひやみず,,Kalte Dusche,Douche Froide,찬물끼얹기,,泼冷水,潑冷水,潑冷水
-Hyper Drill,Hipertaladro,Ipertrapano,ハイパードリル,,Hyperbohrer,Hyperceuse,하이퍼드릴,,强力钻,強力鑽,強力鑽
-Twin Beam,Láser Doble,Doppioraggio,ツインビーム,,Doppelstrahl,Double Laser,트윈빔,,双光束,雙光束,雙光束
-Rage Fist,Puño Furia,Pugno Furibondo,ふんどのこぶし,,Zornesfaust,Poing de Colère,분노의주먹,,愤怒之拳,憤怒之拳,憤怒之拳
-Armor Cannon,Cañón Armadura,Corazza Cannone,アーマーキャノン,,Rüstungskanone,Canon Blindé,아머캐논,,铠农炮,鎧農炮,鎧農炮
-Bitter Blade,Espada Lamento,Lama del Rimorso,むねんのつるぎ,,Reueschwert,Lame en Peine,원념의칼,,悔念剑,悔念劍,悔念劍
-Double Shock,Electropalmas,Doppiolampo,でんこうそうげき,,Zweifachladung,Double Décharge,전광쌍격,,电光双击,電光雙擊,電光雙擊
-Gigaton Hammer,Martillo Colosal,Granmartello,デカハンマー,,Riesenhammer,Marteau Mastoc,거대해머,,巨力锤,巨力錘,巨力錘
-Comeuppance,Resarcimiento,Ritorsione,ほうふく,,Vendetta,Vindicte,앙갚음,,复仇,復仇,復仇
-Aqua Cutter,Tajo Acuático,Idrotaglio,アクアカッター,,Aquaschnitt,Tranch’Aqua,아쿠아커터,,水波刀,水波刀,水波刀
-Blazing Torque,Pirochoque,Turboustione,バーンアクセル,,Hitzeturbo,Crash Brûlant,번액셀,,灼热暴冲,灼熱暴衝,灼熱暴衝
-Wicked Torque,Ominochoque,Turbotenebra,ダークアクセル,,Finsterturbo,Crash Obscur,다크액셀,,黑暗暴冲,黑暗暴衝,黑暗暴衝
-Noxious Torque,Ponzochoque,Turbotossina,ポイズンアクセル,,Toxiturbo,Crash Toxique,포이즌액셀,,剧毒暴冲,劇毒暴衝,劇毒暴衝
-Combat Torque,Pugnachoque,Turborissa,ファイトアクセル,,Raufturbo,Crash Musclé,파이트액셀,,格斗暴冲,格鬥暴衝,格鬥暴衝
-Magical Torque,Feerichoque,Turboincanto,マジカルアクセル,,Zauberturbo,Crash Magique,매지컬액셀,,魔法暴冲,魔法暴衝,魔法暴衝
+Tera Blast,Teraexplosión,Terascoppio,テラバースト,Tera Bāsuto,Tera-Ausbruch,Téra Explosion,테라버스트,Tera Burst,太晶爆发,太晶爆發,太晶爆發
+Silk Trap,Telatrampa,Telatrappola,スレッドトラップ,Sureddo Torappu,Fadenfalle,Piège de Fil,스레드트랩,Thread Trap,线阱,線阱,線阱
+Axe Kick,Patada Hacha,Calcio ad Ascia,かかとおとし,Kakato Otoshi,Fersenkick,Talon-Marteau,발꿈치찍기,Balkkumchijjikgi,下压踢,下壓踢,下壓踢
+Last Respects,Homenaje Póstumo,Omaggio ai KO,おはかまいり,Ohakamairi,Letzte Ehre,Hommage Posthume,성묘,Seongmyo,扫墓,掃墓,掃墓
+Lumina Crash,Fotocolisión,Fotocollisione,ルミナコリジョン,Lumina Korijon,Lichteinschlag,Lumino-Impact,루미나콜리전,Lumina Collision,琉光冲激,琉光衝激,琉光衝激
+Order Up,Oído Cocina,Alta Cucina,いっちょうあがり,Icchō-agari,Auftischen,Plat du Jour,한판내기,Hanpannaegi,上菜,上菜,上菜
+Jet Punch,Puño Jet,Pugnojet,ジェットパンチ,Jetto Panchi,Düsenhieb,Poing Sonique,제트펀치,Jet Punch,喷射拳,噴射拳,噴射拳
+Spicy Extract,Extracto Picante,Essenza Piccante,ハバネロエキス,Habanero Ekisu,Chili-Essenz,Habanerage,하바네로엑기스,Habanero Extract,辣椒精华,辣椒精華,辣椒精華
+Spin Out,Quemarrueda,Slittaruote,ホイールスピン,Hoīru Supin,Reifendrehung,Dérapage,휠스핀,Wheel Spin,疾速转轮,疾速轉輪,疾速轉輪
+Population Bomb,Proliferación,Infestazione,ネズミざん,Nezumizan,Mäuseplage,Prolifération,찍찍베기,Jjikjjikbegi,鼠数儿,鼠數兒,鼠數兒
+Ice Spinner,Pirueta Helada,Vortighiaccio,アイススピナー,Aisu Supinā,Eiskreisel,Cryo-Pirouette,아이스스피너,Ice Spinner,冰旋,冰旋,冰旋
+Glaive Rush,Asalto Espadón,Spadoncarica,きょけんとつげき,Kyoken Totsugeki,Großklingenstoß,Charge Glaive,대검돌격,Daegeom Dolgyeok,巨剑突击,巨劍突擊,巨劍突擊
+Revival Blessing,Plegaria Vital,Preghiera Vitale,さいきのいのり,Saiki no Inori,Vitalsegen,Second Souffle,회생의기도,Hoesaeng-ui Gido,复生祈祷,復生祈禱,復生祈禱
+Salt Cure,Salazón,Sotto Sale,しおづけ,Shiodzuke,Pökelsalz,Salaison,소금절이,Sogeumjeor-i,盐腌,鹽醃,鹽醃
+Triple Dive,Triple Inmersión,Triplo Tuffo,トリプルダイブ,Toripuru Daibu,Tauchtriade,Triple Plongeon,트리플다이브,Triple Dive,三连钻,三連鑽,三連鑽
+Mortal Spin,Giro Mortífero,Glitturbine,キラースピン,Kirā Supin,Letalwirbler,Toupie Éclat,킬러스핀,Killer Spin,晶光转转,晶光轉轉,晶光轉轉
+Doodle,Decalcomanía,Ricalco,うつしえ,Utsushie,Abpausen,Décalquage,베껴그리기,Bekkyeogeurigi,描绘,描繪,描繪
+Fillet Away,Deslome,Alleggerimento,みをけずる,Mi o Kezuru,Abspaltung,Décharnement,제살깎기,Jesalkkakgi,甩肉,甩肉,甩肉
+Kowtow Cleave,Genufendiente,Genufendente,ドゲザン,Dogezan,Kniefallspalter,Génusection,도각참,Dogakcham,仆刀,仆斬,仆斬
+Flower Trick,Truco Floral,Prestigiafiore,トリックフラワー,Torikku Furawā,Blumentrick,Magie Florale,트릭플라워,Trick Flower,千变万花,千變萬花,千變萬花
+Torch Song,Canto Ardiente,Canzone Ardente,フレアソング,Furea Songu,Loderlied,Chant Flamboyant,플레어송,Flare Song,闪焰高歌,閃焰高歌,閃焰高歌
+Aqua Step,Danza Acuática,Idroballetto,アクアステップ,Akua Suteppu,Wogentanz,Danse Aquatique,아쿠아스텝,Aqua Step,流水旋舞,流水旋舞,流水旋舞
+Raging Bull,Furia Taurina,Scatenatoro,レイジングブル,Reijingu Buru,Rasender Stier,Taurogne,레이징불,Raging Bull,怒牛,怒牛,怒牛
+Make It Rain,Fiebre Dorada,Corsa all’Oro,ゴールドラッシュ,Gōrudo Rasshu,Goldrausch,Ruée d’Or,골드러시,Gold Rush,淘金潮,淘金潮,淘金潮
+Ruination,Calamidad,Catastrofe,カタストロフィ,Katasutorofi,Verderben,Cataclysme,카타스트로피,Catastrophe,大灾难,大災難,大災難
+Collision Course,Nitrochoque,Turboschianto,アクセルブレイク,Akuseru Bureiku,Kollisionskurs,Nitro Crash,액셀브레이크,Accel Break,全开猛撞,全開猛撞,全開猛撞
+Electro Drift,Electroderrape,Fulmiscatto,イナズマドライブ,Inazuma Doraibu,Blitztour,Turbo Volt,라이트닝드라이브,Lightning Drive,闪电猛冲,閃電猛衝,閃電猛衝
+Shed Tail,Autotomía,Tagliacoda,しっぽきり,Shippo Kiri,Schwanzabwurf,Queulonage,꼬리자르기,Kkori Jareugi,断尾,斷尾,斷尾
+Chilly Reception,Fría Acogida,Freddura,さむいギャグ,Samui Gyagu,Eisige Stimmung,Neigeux de Mots,썰렁개그,Sseolleong Gag,冷笑话,冷笑話,冷笑話
+Tidy Up,Limpieza General,Pulizie,おかたづけ,Okatazduke,Aufräumen,Grand Nettoyage,정리정돈,Jeongri Jeongdon,大扫除,大掃除,大掃除
+Snowscape,Paisaje Nevado,Vista Innevata,ゆきげしき,Yuki Geshiki,Schneelandschaft,Chute de Neige,설경,Seolgyeong,雪景,雪景,雪景
+Pounce,Brinco,Balzo,とびつく,Tobitsuku,Anspringen,Bond,달려들기,Dallyeodeulgi,虫扑,蟲撲,蟲撲
+Trailblaze,Abrecaminos,Apripista,くさわけ,Kusa Wake,Wegbereiter,Désherbaffe,개척하기,Gaecheokhagi,起草,起草,起草
+Chilling Water,Agua Fría,Doccia Fredda,ひやみず,Hiya Mizu,Kalte Dusche,Douche Froide,찬물끼얹기,Chanmul Kkieongi,泼冷水,潑冷水,潑冷水
+Hyper Drill,Hipertaladro,Ipertrapano,ハイパードリル,Haipā Doriru,Hyperbohrer,Hyperceuse,하이퍼드릴,Hyper Drill,强力钻,強力鑽,強力鑽
+Twin Beam,Láser Doble,Doppioraggio,ツインビーム,Tsuin Bīmu,Doppelstrahl,Double Laser,트윈빔,Twin Beam,双光束,雙光束,雙光束
+Rage Fist,Puño Furia,Pugno Furibondo,ふんどのこぶし,Fundo no Kobushi,Zornesfaust,Poing de Colère,분노의주먹,Bunno-ui Jumeok,愤怒之拳,憤怒之拳,憤怒之拳
+Armor Cannon,Cañón Armadura,Corazza Cannone,アーマーキャノン,Āmā Kyanon,Rüstungskanone,Canon Blindé,아머캐논,Armor Cannon,铠农炮,鎧農炮,鎧農炮
+Bitter Blade,Espada Lamento,Lama del Rimorso,むねんのつるぎ,Munen no Tsurugi,Reueschwert,Lame en Peine,원념의칼,Wonnyeom-ui Kal,悔念剑,悔念劍,悔念劍
+Double Shock,Electropalmas,Doppiolampo,でんこうそうげき,Denkō Sōgeki,Zweifachladung,Double Décharge,전광쌍격,Jeongwang Ssanggyeok,电光双击,電光雙擊,電光雙擊
+Gigaton Hammer,Martillo Colosal,Granmartello,デカハンマー,Deka Hanmā,Riesenhammer,Marteau Mastoc,거대해머,Geodae Hammer,巨力锤,巨力錘,巨力錘
+Comeuppance,Resarcimiento,Ritorsione,ほうふく,Hōfuku,Vendetta,Vindicte,앙갚음,Anggap-eum,复仇,復仇,復仇
+Aqua Cutter,Tajo Acuático,Idrotaglio,アクアカッター,Akua Kattā,Aquaschnitt,Tranch’Aqua,아쿠아커터,Aqua Cutter,水波刀,水波刀,水波刀
+Blazing Torque,Pirochoque,Turboustione,バーンアクセル,Burn Accel ,Hitzeturbo,Crash Brûlant,번액셀,Burn Axel ,灼热暴冲,灼熱暴衝,灼熱暴衝
+Wicked Torque,Ominochoque,Turbotenebra,ダークアクセル,Dark Accel ,Finsterturbo,Crash Obscur,다크액셀,Dark Axel ,黑暗暴冲,黑暗暴衝,黑暗暴衝
+Noxious Torque,Ponzochoque,Turbotossina,ポイズンアクセル,Poison Accel ,Toxiturbo,Crash Toxique,포이즌액셀,Poison Axel ,剧毒暴冲,劇毒暴衝,劇毒暴衝
+Combat Torque,Pugnachoque,Turborissa,ファイトアクセル,Fight Accel ,Raufturbo,Crash Musclé,파이트액셀,Fight Axel ,格斗暴冲,格鬥暴衝,格鬥暴衝
+Magical Torque,Feerichoque,Turboincanto,マジカルアクセル,Magical Accel ,Zauberturbo,Crash Magique,매지컬액셀,Magical Axel ,魔法暴冲,魔法暴衝,魔法暴衝
 ,,,,,,,,,,,
 Breakneck Blitz,Carrera Arrolladora,Carica Travolgente,ウルトラダッシュアタック,Urutora Dasshu Atakku,Hyper-Sprintangriff,Turbo-Charge Bulldozer,울트라대시어택,Ultra Dash Attack,究极无敌大冲撞,究極無敵大衝撞,究極無敵大衝撞
 All-Out Pummeling,Ráfaga Demoledora,Iperscarica Furiosa,全力無双激烈拳,Zenryoku Musō Gekiretsu Ken,Fulminante Faustschläge,Combo Hyper-Furie,전력무쌍격렬권,Jeollyeok Mussang Gyeongnyeolgwon,全力无双激烈拳,全力無雙激烈拳,全力無雙激烈拳
