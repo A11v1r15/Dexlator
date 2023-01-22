@@ -770,7 +770,7 @@ Golisopod,Golisopod,Golisopod,グソクムシャ,Gusokumusha,Tectass,Sarmuraï,�
 Sandygast,Sandygast,Sandygast,スナバァ,Sunaba,Sankabuh,Bacabouh,모래꿍,Moraekkung,沙丘娃,沙丘娃,沙丘娃
 Palossand,Palossand,Palossand,シロデスナ,Sirodethna,Colossand,Trépassable,모래성이당,Moraeseongidang,噬沙堡爷,噬沙堡爺,噬沙堡爺
 Pyukumuku,Pyukumuku,Pyukumuku,ナマコブシ,Namakobushi,Gufa,Concombaffe,해무기,Haemugi,拳海参,拳海參,拳海參
-Type: Null,Type: Null,Type: Null,タイプ：ヌル,Type: Null,Typ:Null,Type:0,타입:널,Taip:Neol,属性：空,屬性：空,屬性：空
+Type: Null,Código Cero,Tipo Zero,タイプ：ヌル,Type: Null,Typ:Null,Type:0,타입:널,Taip:Neol,属性：空,屬性：空,屬性：空
 Silvally,Silvally,Silvally,シルヴァディ,Silvady,Amigento,Silvallié,실버디,Silbeodi,银伴战兽,銀伴戰獸,銀伴戰獸
 Minior,Minior,Minior,メテノ,Meteno,Meteno,Météno,메테노,Meteno,小陨星,小隕星,小隕星
 Komala,Komala,Komala,ネッコアラ,Nekkoara,Koalelu,Dodoala,자말라,Jamalla,树枕尾熊,樹枕尾熊,樹枕尾熊
@@ -905,108 +905,108 @@ Sneasler,Sneasler,Sneasler,オオニューラ,Ōnyūra,Snieboss,Farfurex,포푸�
 Overqwil,Overqwil,Overqwil,ハリーマン,Harīman,Myriador,Qwilpik,장침바루,Jangchimbaru,万针鱼,萬針魚,萬針魚
 Enamorus,Enamorus,Enamorus,ラブトロス,Rabutorosu,Cupidos,Amovénus,러브로스,Reobeuroseu,眷恋云,眷戀雲,眷戀雲
 Sprigatito,Sprigatito,Sprigatito,ニャオハ,Nyahoja,Felori,Poussacha,나오하,Naoha,新叶喵,新葉喵,新葉喵
-Floragato,Floragato,Floragato,ニャローテ,,Feliospa,Matourgeon,나로테,,蒂蕾喵,蒂蕾喵,蒂蕾喵
-Meowscarada,Meowscarada,Meowscarada,マスカーニャ,,Maskagato,Miascarade,마스카나,,魔幻假面喵,魔幻假面喵,魔幻假面喵
+Floragato,Floragato,Floragato,ニャローテ,Nyarote,Feliospa,Matourgeon,나로테,Narote,蒂蕾喵,蒂蕾喵,蒂蕾喵
+Meowscarada,Meowscarada,Meowscarada,マスカーニャ,Masquernya,Maskagato,Miascarade,마스카나,Maseukana,魔幻假面喵,魔幻假面喵,魔幻假面喵
 Fuecoco,Fuecoco,Fuecoco,ホゲータ,Hogator,Krokel,Chochodile,뜨아거,Tteuageo,呆火鳄,呆火鱷,呆火鱷
-Crocalor,Crocalor,Crocalor,アチゲータ,,Lokroko,Crocogril,악뜨거,,炙烫鳄,炙燙鱷,炙燙鱷
-Skeledirge,Skeledirge,Skeledirge,ラウドボーン,,Skelokrok,Flâmigator,라우드본,,骨纹巨声鳄,骨紋巨聲鱷,骨紋巨聲鱷
+Crocalor,Crocalor,Crocalor,アチゲータ,Achigator,Lokroko,Crocogril,악뜨거,Eoktteugeo,炙烫鳄,炙燙鱷,炙燙鱷
+Skeledirge,Skeledirge,Skeledirge,ラウドボーン,Loudbone,Skelokrok,Flâmigator,라우드본,Raudeubon,骨纹巨声鳄,骨紋巨聲鱷,骨紋巨聲鱷
 Quaxly,Quaxly,Quaxly,クワッス,Kuwassu,Kwaks,Coiffeton,꾸왁스,Kkuwakseu,润水鸭,潤水鴨,潤水鴨
-Quaxwell,Quaxwell,Quaxwell,ウェルカモ,,Fuentente,Canarbello,아꾸왁,,涌跃鸭,湧躍鴨,湧躍鴨
-Quaquaval,Quaquaval,Quaquaval,ウェーニバル,,Bailonda,Palmaval,웨이니발,,狂欢浪舞鸭,狂歡浪舞鴨,狂歡浪舞鴨
-Lechonk,Lechonk,Lechonk,グルトン,,Ferkuli,Gourmelet,맛보돈,,爱吃豚,愛吃豚,愛吃豚
-Oinkologne,Oinkologne,Oinkologne,パフュートン,,Fragrunz,Fragroin,퍼퓨돈,,飘香豚,飄香豚,飄香豚
-Tarountula,Tarountula,Tarountula,タマンチュラ,,Tarundel,Tissenboule,타랜툴라,,团珠蛛,團珠蛛,團珠蛛
-Spidops,Spidops,Spidops,ワナイダー,,Spinsidias,Filentrappe,트래피더,,操陷蛛,操陷蛛,操陷蛛
-Nymble,Nymble,Nymble,マメバッタ,,Micrick,Lilliterelle,콩알뚜기,,豆蟋蟀,豆蟋蟀,豆蟋蟀
-Lokix,Lokix,Lokix,エクスレッグ,,Lextremo,Gambex,엑스레그,,烈腿蝗,烈腿蝗,烈腿蝗
-Pawmi,Pawmi,Pawmi,パモ,,Pamo,Pohm,빠모,,布拨,布撥,布撥
-Pawmo,Pawmo,Pawmo,パモット,,Pamamo,Pohmotte,빠모트,,布土拨,布土撥,布土撥
-Pawmot,Pawmot,Pawmot,パーモット,,Pamomamo,Pohmarmotte,빠르모트,,巴布土拨,巴布土撥,巴布土撥
-Tandemaus,Tandemaus,Tandemaus,ワッカネズミ,,Zwieps,Compagnol,두리쥐,,一对鼠,一對鼠,一對鼠
-Maushold,Maushold,Maushold,イッカネズミ,,Famieps,Famignol,파밀리쥐,,一家鼠,一家鼠,一家鼠
-Fidough,Fidough,Fidough,パピモッチ,,Hefel,Pâtachiot,쫀도기,,狗仔包,狗仔包,狗仔包
-Dachsbun,Dachsbun,Dachsbun,バウッツェル,,Backel,Briochien,바우첼,,麻花犬,麻花犬,麻花犬
-Smoliv,Smoliv,Smoliv,ミニーブ,,Olini,Olivini,미니브,,迷你芙,迷你芙,迷你芙
-Dolliv,Dolliv,Dolliv,オリーニョ,,Olivinio,Olivado,올리뇨,,奥利纽,奧利紐,奧利紐
-Arboliva,Arboliva,Arboliva,オリーヴァ,,Olithena,Arboliva,올리르바,,奥利瓦,奧利瓦,奧利瓦
-Squawkabilly,Squawkabilly,Squawkabilly,イキリンコ,,Krawalloro,Tapatoès,시비꼬,,怒鹦哥,怒鸚哥,怒鸚哥
-Nacli,Nacli,Nacli,コジオ,,Geosali,Selutin,베베솔트,,盐石宝,鹽石寶,鹽石寶
-Naclstack,Naclstack,Naclstack,ジオヅム,,Sedisal,Amassel,스태솔트,,盐石垒,鹽石壘,鹽石壘
-Garganacl,Garganacl,Garganacl,キョジオーン,,Saltigant,Gigansel,콜로솔트,,盐石巨灵,鹽石巨靈,鹽石巨靈
-Charcadet,Charcadet,Charcadet,カルボウ,,Knarbon,Charbambin,카르본,,炭小侍,炭小侍,炭小侍
-Armarouge,Armarouge,Armarouge,グレンアルマ,,Crimanzo,Carmadura,카디나르마,,红莲铠骑,紅蓮鎧騎,紅蓮鎧騎
-Ceruledge,Ceruledge,Ceruledge,ソウブレイズ,,Azugladis,Malvalame,파라블레이즈,,苍炎刃鬼,蒼炎刃鬼,蒼炎刃鬼
-Tadbulb,Tadbulb,Tadbulb,ズピカ,,Blipp,Têtampoule,빈나두,,光蚪仔,光蚪仔,光蚪仔
-Bellibolt,Bellibolt,Bellibolt,ハラバリー,,Wampitz,Ampibidou,찌리배리,,电肚蛙,電肚蛙,電肚蛙
-Wattrel,Wattrel,Wattrel,カイデン,,Voltrel,Zapétrel,찌리비,,电海燕,電海燕,電海燕
-Kilowattrel,Kilowattrel,Kilowattrel,タイカイデン,,Voltrean,Fulgulairo,찌리비크,,大电海燕,大電海燕,大電海燕
-Maschiff,Maschiff,Maschiff,オラチフ,,Mobtiff,Grondogue,오라티프,,偶叫獒,偶叫獒,偶叫獒
-Mabosstiff,Mabosstiff,Mabosstiff,マフィティフ,,Mastifioso,Dogrino,마피티프,,獒教父,獒教父,獒教父
-Shroodle,Shroodle,Shroodle,シルシュルー,,Sproxi,Gribouraigne,땃쭈르,,滋汁鼹,滋汁鼴,滋汁鼴
-Grafaiai,Grafaiai,Grafaiai,タギングル,,Affiti,Tag-Tag,태깅구르,,涂标客,塗標客,塗標客
-Bramblin,Bramblin,Bramblin,アノクサ,,Weherba,Virovent,그푸리,,纳噬草,納噬草,納噬草
-Brambleghast,Brambleghast,Brambleghast,アノホラグサ,,Horrerba,Virevorreur,공푸리,,怖纳噬草,怖納噬草,怖納噬草
-Toedscool,Toedscool,Toedscool,ノノクラゲ,,Tentagra,Terracool,들눈해,,原野水母,原野水母,原野水母
-Toedscruel,Toedscruel,Toedscruel,リククラゲ,,Tenterra,Terracruel,육파리,,陆地水母,陸地水母,陸地水母
-Klawf,Klawf,Klawf,ガケガニ,,Klibbe,Craparoi,절벼게,,毛崖蟹,毛崖蟹,毛崖蟹
-Capsakid,Capsakid,Capsakid,カプサイジ,,Chilingel,Pimito,캡싸이,,热辣娃,熱辣娃,熱辣娃
-Scovillain,Scovillain,Scovillain,スコヴィラン,,Halupenjo,Scovilain,스코빌런,,狠辣椒,狠辣椒,狠辣椒
-Rellor,Rellor,Rellor,シガロコ,,Relluk,Léboulérou,구르데,,虫滚泥,蟲滾泥,蟲滾泥
-Rabsca,Rabsca,Rabsca,ベラカス,,Skarabaks,Bérasca,베라카스,,虫甲圣,蟲甲聖,蟲甲聖
-Flittle,Flittle,Flittle,ヒラヒナ,,Flattutu,Flotillon,하느라기,,飘飘雏,飄飄雛,飄飄雛
-Espathra,Espathra,Espathra,クエスパトラ,,Psiopatra,Cléopsytra,클레스퍼트라,,超能艳鸵,超能豔鴕,超能豔鴕
-Tinkatink,Tinkatink,Tinkatink,カヌチャン,,Forgita,Forgerette,어리짱,,小锻匠,小鍛匠,小鍛匠
-Tinkatuff,Tinkatuff,Tinkatuff,ナカヌチャン,,Tafforgita,Forgella,벼리짱,,巧锻匠,巧鍛匠,巧鍛匠
-Tinkaton,Tinkaton,Tinkaton,デカヌチャン,,Granforgita,Forgelina,두드리짱,,巨锻匠,巨鍛匠,巨鍛匠
-Wiglett,Wiglett,Wiglett,ウミディグダ,,Schligda,Taupikeau,바다그다,,海地鼠,海地鼠,海地鼠
-Wugtrio,Wugtrio,Wugtrio,ウミトリオ,,Schligdri,Triopikeau,바닥트리오,,三海地鼠,三海地鼠,三海地鼠
-Bombirdier,Bombirdier,Bombirdier,オトシドリ,,Adebom,Lestombaile,떨구새,,下石鸟,下石鳥,下石鳥
-Finizen,Finizen,Finizen,ナミイルカ,,Normifin,Dofin,맨돌핀,,波普海豚,波普海豚,波普海豚
-Palafin,Palafin,Palafin,イルカマン,,Delfinator,Superdofin,돌핀맨,,海豚侠,海豚俠,海豚俠
-Varoom,Varoom,Varoom,ブロロン,,Knattox,Vrombi,부르롱,,噗隆隆,噗隆隆,噗隆隆
-Revavroom,Revavroom,Revavroom,ブロロローム,,Knattatox,Vrombotor,부르르룸,,普隆隆姆,普隆隆姆,普隆隆姆
-Cyclizar,Cyclizar,Cyclizar,モトトカゲ,,Mopex,Motorizard,모토마,,摩托蜥,摩托蜥,摩托蜥
-Orthworm,Orthworm,Orthworm,ミミズズ,,Schlurm,Ferdeter,꿈트렁,,拖拖蚓,拖拖蚓,拖拖蚓
-Glimmet,Glimmet,Glimmet,キラーメ,,Lumispross,Germéclat,초롱순,,晶光芽,晶光芽,晶光芽
-Glimmora,Glimmora,Glimmora,キラフロル,,Lumiflora,Floréclat,킬라플로르,,晶光花,晶光花,晶光花
-Greavard,Greavard,Greavard,ボチ,,Gruff,Toutombe,망망이,,墓仔狗,墓仔狗,墓仔狗
-Houndstone,Houndstone,Houndstone,ハカドッグ,,Friedwuff,Tomberro,묘두기,,墓扬犬,墓揚犬,墓揚犬
-Flamigo,Flamigo,Flamigo,カラミンゴ,,Flaminkno,Flamenroule,꼬이밍고,,缠红鹤,纏紅鶴,纏紅鶴
-Cetoddle,Cetoddle,Cetoddle,アルクジラ,,Flaniwal,Piétacé,터벅고래,,走鲸,走鯨,走鯨
-Cetitan,Cetitan,Cetitan,ハルクジラ,,Kolowal,Balbalèze,우락고래,,浩大鲸,浩大鯨,浩大鯨
-Veluza,Veluza,Veluza,ミガルーサ,,Agiluza,Délestin,가비루사,,轻身鳕,輕身鱈,輕身鱈
-Dondozo,Dondozo,Dondozo,ヘイラッシャ,,Heerashai,Oyacata,어써러셔,,吃吼霸,吃吼霸,吃吼霸
-Tatsugiri,Tatsugiri,Tatsugiri,シャリタツ,,Nigiragi,Nigirigon,싸리용,,米立龙,米立龍,米立龍
-Annihilape,Annihilape,Annihilape,コノヨザル,,Epitaff,Courrousinge,저승갓숭,,弃世猴,棄世猴,棄世猴
-Clodsire,Clodsire,Clodsire,ドオー,,Suelord,Terraiste,토오,,土王,土王,土王
-Farigiraf,Farigiraf,Farigiraf,リキキリン,,Farigiraf,Farigiraf,키키링,,奇麒麟,奇麒麟,奇麒麟
-Dudunsparce,Dudunsparce,Dudunsparce,ノココッチ,,Dummimisel,Deusolourdo,노고고치,,土龙节节,土龍節節,土龍節節
-Kingambit,Kingambit,Kingambit,ドドゲザン,,Gladimperio,Scalpereur,대도각참,,仆刀将军,仆斬將軍,仆斬將軍
-Great Tusk,Great Tusk,Great Tusk,イダイナキバ,,Riesenzahn,Fort-Ivoire,위대한엄니,,雄伟牙,雄偉牙,雄偉牙
-Scream Tail,Scream Tail,Scream Tail,サケブシッポ,,Brüllschweif,Hurle-Queue,우렁찬꼬리,,吼叫尾,吼叫尾,吼叫尾
-Brute Bonnet,Brute Bonnet,Brute Bonnet,アラブルタケ,,Wutpilz,Fongus-Furie,사나운버섯,,猛恶菇,猛惡菇,猛惡菇
-Flutter Mane,Flutter Mane,Flutter Mane,ハバタクカミ,,Flatterhaar,Flotte-Mèche,날개치는머리,,振翼发,振翼髮,振翼髮
-Slither Wing,Slither Wing,Slither Wing,チヲハウハネ,,Kriechflügel,Rampe-Ailes,땅을기는날개,,爬地翅,爬地翅,爬地翅
-Sandy Shocks,Sandy Shocks,Sandy Shocks,スナノケガワ,,Sandfell,Pelage-Sablé,모래털가죽,,沙铁皮,沙鐵皮,沙鐵皮
-Iron Treads,Iron Treads,Iron Treads,テツノワダチ,,Eisenrad,Roue-de-Fer,무쇠바퀴,,铁辙迹,鐵轍跡,鐵轍跡
-Iron Bundle,Iron Bundle,Iron Bundle,テツノツツミ,,Eisenbündel,Hotte-de-Fer,무쇠보따리,,铁包袱,鐵包袱,鐵包袱
-Iron Hands,Iron Hands,Iron Hands,テツノカイナ,,Eisenhand,Paume-de-Fer,무쇠손,,铁臂膀,鐵臂膀,鐵臂膀
-Iron Jugulis,Iron Jugulis,Iron Jugulis,テツノコウベ,,Eisenhals,Têtes-de-Fer,무쇠머리,,铁脖颈,鐵脖頸,鐵脖頸
-Iron Moth,Iron Moth,Iron Moth,テツノドクガ,,Eisenfalter,Mite-de-Fer,무쇠독나방,,铁毒蛾,鐵毒蛾,鐵毒蛾
-Iron Thorns,Iron Thorns,Iron Thorns,テツノイバラ,,Eisendorn,Épine-de-Fer,무쇠가시,,铁荆棘,鐵荊棘,鐵荊棘
-Frigibax,Frigibax,Frigibax,セビエ,,Frospino,Frigodo,드니차,,凉脊龙,涼脊龍,涼脊龍
-Arctibax,Arctibax,Arctibax,セゴール,,Cryospino,Cryodo,드니꽁,,冻脊龙,凍脊龍,凍脊龍
-Baxcalibur,Baxcalibur,Baxcalibur,セグレイブ,,Espinodon,Glaivodo,드닐레이브,,戟脊龙,戟脊龍,戟脊龍
-Gimmighoul,Gimmighoul,Gimmighoul,コレクレー,,Gierspenst,Mordudor,모으령,,索财灵,索財靈,索財靈
-Gholdengo,Gholdengo,Gholdengo,サーフゴー,,Monetigo,Gromago,타부자고,,赛富豪,賽富豪,賽富豪
-Wo-Chien,Wo-Chien,Wo-Chien,チオンジェン,,Chongjian,Chongjian,총지엔,,古简蜗,古簡蝸,古簡蝸
-Chien-Pao,Chien-Pao,Chien-Pao,パオジアン,,Baojian,Baojian,파오젠,,古剑豹,古劍豹,古劍豹
-Ting-Lu,Ting-Lu,Ting-Lu,ディンルー,,Dinglu,Dinglu,딩루,,古鼎鹿,古鼎鹿,古鼎鹿
-Chi-Yu,Chi-Yu,Chi-Yu,イーユイ,,Yuyu,Yuyu,위유이,,古玉鱼,古玉魚,古玉魚
-Roaring Moon,Roaring Moon,Roaring Moon,トドロクツキ,,Donnersichel,Rugit-Lune,고동치는달,,轰鸣月,轟鳴月,轟鳴月
-Iron Valiant,Iron Valiant,Iron Valiant,テツノブジン,,Eisenkrieger,Garde-de-Fer,무쇠무인,,铁武者,鐵武者,鐵武者
-Koraidon,Koraidon,Koraidon,コライドン,,Koraidon,Koraidon,코라이돈,,故勒顿,故勒頓,故勒頓
-Miraidon,Miraidon,Miraidon,ミライドン,,Miraidon,Miraidon,미라이돈,,密勒顿,密勒頓,密勒頓
+Quaxwell,Quaxwell,Quaxwell,ウェルカモ,Welkamo,Fuentente,Canarbello,아꾸왁,Akkuwak,涌跃鸭,湧躍鴨,湧躍鴨
+Quaquaval,Quaquaval,Quaquaval,ウェーニバル,Wanival,Bailonda,Palmaval,웨이니발,Weinibal,狂欢浪舞鸭,狂歡浪舞鴨,狂歡浪舞鴨
+Lechonk,Lechonk,Lechonk,グルトン,Gourton,Ferkuli,Gourmelet,맛보돈,Matbodon,爱吃豚,愛吃豚,愛吃豚
+Oinkologne,Oinkologne,Oinkologne,パフュートン,Perfuton,Fragrunz,Fragroin,퍼퓨돈,Peopyudon,飘香豚,飄香豚,飄香豚
+Tarountula,Tarountula,Tarountula,タマンチュラ,Tamanchura,Tarundel,Tissenboule,타랜툴라,Taraentulla,团珠蛛,團珠蛛,團珠蛛
+Spidops,Spidops,Spidops,ワナイダー,Wanaidā,Spinsidias,Filentrappe,트래피더,Teuraepideo,操陷蛛,操陷蛛,操陷蛛
+Nymble,Nymble,Nymble,マメバッタ,Mamebatta,Micrick,Lilliterelle,콩알뚜기,Kongalttugi,豆蟋蟀,豆蟋蟀,豆蟋蟀
+Lokix,Lokix,Lokix,エクスレッグ,Exleg,Lextremo,Gambex,엑스레그,Ekseuregeu,烈腿蝗,烈腿蝗,烈腿蝗
+Pawmi,Pawmi,Pawmi,パモ,Pamo,Pamo,Pohm,빠모,Ppamo,布拨,布撥,布撥
+Pawmo,Pawmo,Pawmo,パモット,Pamot,Pamamo,Pohmotte,빠모트,Ppamoteu,布土拨,布土撥,布土撥
+Pawmot,Pawmot,Pawmot,パーモット,Parmot,Pamomamo,Pohmarmotte,빠르모트,Ppareumoteu,巴布土拨,巴布土撥,巴布土撥
+Tandemaus,Tandemaus,Tandemaus,ワッカネズミ,Wakkanezumi,Zwieps,Compagnol,두리쥐,Durijwi,一对鼠,一對鼠,一對鼠
+Maushold,Maushold,Maushold,イッカネズミ,Ikkanezumi,Famieps,Famignol,파밀리쥐,Pamilljwi,一家鼠,一家鼠,一家鼠
+Fidough,Fidough,Fidough,パピモッチ,Pupimocchi,Hefel,Pâtachiot,쫀도기,Jjondogi,狗仔包,狗仔包,狗仔包
+Dachsbun,Dachsbun,Dachsbun,バウッツェル,Bowtzel,Backel,Briochien,바우첼,Bauchel,麻花犬,麻花犬,麻花犬
+Smoliv,Smoliv,Smoliv,ミニーブ,Minive,Olini,Olivini,미니브,Minibeu,迷你芙,迷你芙,迷你芙
+Dolliv,Dolliv,Dolliv,オリーニョ,Orīnyo,Olivinio,Olivado,올리뇨,Ollinyo,奥利纽,奧利紐,奧利紐
+Arboliva,Arboliva,Arboliva,オリーヴァ,Orīva,Olithena,Arboliva,올리르바,Ollireuba,奥利瓦,奧利瓦,奧利瓦
+Squawkabilly,Squawkabilly,Squawkabilly,イキリンコ,Ikirinko,Krawalloro,Tapatoès,시비꼬,Sibikko,怒鹦哥,怒鸚哥,怒鸚哥
+Nacli,Nacli,Nacli,コジオ,Kojio,Geosali,Selutin,베베솔트,Bebesolteu,盐石宝,鹽石寶,鹽石寶
+Naclstack,Naclstack,Naclstack,ジオヅム,Jiodzumu,Sedisal,Amassel,스태솔트,Seutaesolteu,盐石垒,鹽石壘,鹽石壘
+Garganacl,Garganacl,Garganacl,キョジオーン,Kyojiōn,Saltigant,Gigansel,콜로솔트,Kollosolteu,盐石巨灵,鹽石巨靈,鹽石巨靈
+Charcadet,Charcadet,Charcadet,カルボウ,Carbou,Knarbon,Charbambin,카르본,Kareubon,炭小侍,炭小侍,炭小侍
+Armarouge,Armarouge,Armarouge,グレンアルマ,Gurenarma,Crimanzo,Carmadura,카디나르마,Kadinareuma,红莲铠骑,紅蓮鎧騎,紅蓮鎧騎
+Ceruledge,Ceruledge,Ceruledge,ソウブレイズ,Soublades,Azugladis,Malvalame,파라블레이즈,Parabeulleijeu,苍炎刃鬼,蒼炎刃鬼,蒼炎刃鬼
+Tadbulb,Tadbulb,Tadbulb,ズピカ,Zupika,Blipp,Têtampoule,빈나두,Binnadu,光蚪仔,光蚪仔,光蚪仔
+Bellibolt,Bellibolt,Bellibolt,ハラバリー,Harabarī,Wampitz,Ampibidou,찌리배리,Jjiribaeri,电肚蛙,電肚蛙,電肚蛙
+Wattrel,Wattrel,Wattrel,カイデン,Kaiden,Voltrel,Zapétrel,찌리비,Jjiribi,电海燕,電海燕,電海燕
+Kilowattrel,Kilowattrel,Kilowattrel,タイカイデン,Taikaiden,Voltrean,Fulgulairo,찌리비크,Jjiribikeu,大电海燕,大電海燕,大電海燕
+Maschiff,Maschiff,Maschiff,オラチフ,Orachifu,Mobtiff,Grondogue,오라티프,Oratipeu,偶叫獒,偶叫獒,偶叫獒
+Mabosstiff,Mabosstiff,Mabosstiff,マフィティフ,Mafitifu,Mastifioso,Dogrino,마피티프,Mapitipeu,獒教父,獒教父,獒教父
+Shroodle,Shroodle,Shroodle,シルシュルー,Shirushurū,Sproxi,Gribouraigne,땃쭈르,Ttatjjureu,滋汁鼹,滋汁鼴,滋汁鼴
+Grafaiai,Grafaiai,Grafaiai,タギングル,Taginguru,Affiti,Tag-Tag,태깅구르,Taeginggureu,涂标客,塗標客,塗標客
+Bramblin,Bramblin,Bramblin,アノクサ,Anokusa,Weherba,Virovent,그푸리,Geupuri,纳噬草,納噬草,納噬草
+Brambleghast,Brambleghast,Brambleghast,アノホラグサ,Anohoragusa,Horrerba,Virevorreur,공푸리,Gongpuri,怖纳噬草,怖納噬草,怖納噬草
+Toedscool,Toedscool,Toedscool,ノノクラゲ,Nonokurage,Tentagra,Terracool,들눈해,Deulnunhae,原野水母,原野水母,原野水母
+Toedscruel,Toedscruel,Toedscruel,リククラゲ,Rikukurage,Tenterra,Terracruel,육파리,Yukpari,陆地水母,陸地水母,陸地水母
+Klawf,Klawf,Klawf,ガケガニ,Gakegani,Klibbe,Craparoi,절벼게,Jeolbyeoge,毛崖蟹,毛崖蟹,毛崖蟹
+Capsakid,Capsakid,Capsakid,カプサイジ,Kapusaiji,Chilingel,Pimito,캡싸이,Kaepssai,热辣娃,熱辣娃,熱辣娃
+Scovillain,Scovillain,Scovillain,スコヴィラン,Sukoviran,Halupenjo,Scovilain,스코빌런,Seukobilleon,狠辣椒,狠辣椒,狠辣椒
+Rellor,Rellor,Rellor,シガロコ,Shigaroko,Relluk,Léboulérou,구르데,Gureude,虫滚泥,蟲滾泥,蟲滾泥
+Rabsca,Rabsca,Rabsca,ベラカス,Berakasu,Skarabaks,Bérasca,베라카스,Berakaseu,虫甲圣,蟲甲聖,蟲甲聖
+Flittle,Flittle,Flittle,ヒラヒナ,Hirahina,Flattutu,Flotillon,하느라기,Haneuragi,飘飘雏,飄飄雛,飄飄雛
+Espathra,Espathra,Espathra,クエスパトラ,Kuesupatora,Psiopatra,Cléopsytra,클레스퍼트라,Keulleseupeoteura,超能艳鸵,超能豔鴕,超能豔鴕
+Tinkatink,Tinkatink,Tinkatink,カヌチャン,Kanuchan,Forgita,Forgerette,어리짱,Eorijjang,小锻匠,小鍛匠,小鍛匠
+Tinkatuff,Tinkatuff,Tinkatuff,ナカヌチャン,Nakanuchan,Tafforgita,Forgella,벼리짱,Byeorijjang,巧锻匠,巧鍛匠,巧鍛匠
+Tinkaton,Tinkaton,Tinkaton,デカヌチャン,Dekanuchan,Granforgita,Forgelina,두드리짱,Dudeurijjang,巨锻匠,巨鍛匠,巨鍛匠
+Wiglett,Wiglett,Wiglett,ウミディグダ,Umidigda,Schligda,Taupikeau,바다그다,Badageuda,海地鼠,海地鼠,海地鼠
+Wugtrio,Wugtrio,Wugtrio,ウミトリオ,Umitrio,Schligdri,Triopikeau,바닥트리오,Badakteurio,三海地鼠,三海地鼠,三海地鼠
+Bombirdier,Bombirdier,Bombirdier,オトシドリ,Otoshidori,Adebom,Lestombaile,떨구새,Tteolgusae,下石鸟,下石鳥,下石鳥
+Finizen,Finizen,Finizen,ナミイルカ,Namiiruka,Normifin,Dofin,맨돌핀,Maendolpin,波普海豚,波普海豚,波普海豚
+Palafin,Palafin,Palafin,イルカマン,Irukaman,Delfinator,Superdofin,돌핀맨,Dolpinmaen,海豚侠,海豚俠,海豚俠
+Varoom,Varoom,Varoom,ブロロン,Buroron,Knattox,Vrombi,부르롱,Bureurong,噗隆隆,噗隆隆,噗隆隆
+Revavroom,Revavroom,Revavroom,ブロロローム,Burororōmu,Knattatox,Vrombotor,부르르룸,Bureureurum,普隆隆姆,普隆隆姆,普隆隆姆
+Cyclizar,Cyclizar,Cyclizar,モトトカゲ,Mototokage,Mopex,Motorizard,모토마,Motoma,摩托蜥,摩托蜥,摩托蜥
+Orthworm,Orthworm,Orthworm,ミミズズ,Mimizuzu,Schlurm,Ferdeter,꿈트렁,KKumteureong,拖拖蚓,拖拖蚓,拖拖蚓
+Glimmet,Glimmet,Glimmet,キラーメ,Kirāme,Lumispross,Germéclat,초롱순,Chorongsun,晶光芽,晶光芽,晶光芽
+Glimmora,Glimmora,Glimmora,キラフロル,Kirafuroru,Lumiflora,Floréclat,킬라플로르,Killapeulloreu,晶光花,晶光花,晶光花
+Greavard,Greavard,Greavard,ボチ,Bochi,Gruff,Toutombe,망망이,Mangmangi,墓仔狗,墓仔狗,墓仔狗
+Houndstone,Houndstone,Houndstone,ハカドッグ,Hakadoggu,Friedwuff,Tomberro,묘두기,Myodugi,墓扬犬,墓揚犬,墓揚犬
+Flamigo,Flamigo,Flamigo,カラミンゴ,Karamingo,Flaminkno,Flamenroule,꼬이밍고,Kkoiminggo,缠红鹤,纏紅鶴,纏紅鶴
+Cetoddle,Cetoddle,Cetoddle,アルクジラ,Arukujira,Flaniwal,Piétacé,터벅고래,Teobeokgorae,走鲸,走鯨,走鯨
+Cetitan,Cetitan,Cetitan,ハルクジラ,Harukujira,Kolowal,Balbalèze,우락고래,Urakgorae,浩大鲸,浩大鯨,浩大鯨
+Veluza,Veluza,Veluza,ミガルーサ,Migarūsa,Agiluza,Délestin,가비루사,Gabirusa,轻身鳕,輕身鱈,輕身鱈
+Dondozo,Dondozo,Dondozo,ヘイラッシャ,Heyrusher,Heerashai,Oyacata,어써러셔,Eosseoreosyeo,吃吼霸,吃吼霸,吃吼霸
+Tatsugiri,Tatsugiri,Tatsugiri,シャリタツ,Syaritatsu,Nigiragi,Nigirigon,싸리용,Ssariyong,米立龙,米立龍,米立龍
+Annihilape,Annihilape,Annihilape,コノヨザル,Konoyozaru,Epitaff,Courrousinge,저승갓숭,Jeoseunggatsung,弃世猴,棄世猴,棄世猴
+Clodsire,Clodsire,Clodsire,ドオー,Dooh,Suelord,Terraiste,토오,Too,土王,土王,土王
+Farigiraf,Farigiraf,Farigiraf,リキキリン,Rikikirin,Farigiraf,Farigiraf,키키링,Kikiring,奇麒麟,奇麒麟,奇麒麟
+Dudunsparce,Dudunsparce,Dudunsparce,ノココッチ,Nokokocchi,Dummimisel,Deusolourdo,노고고치,Nogogochi,土龙节节,土龍節節,土龍節節
+Kingambit,Kingambit,Kingambit,ドドゲザン,Dodogezan,Gladimperio,Scalpereur,대도각참,Daedogakcham,仆刀将军,仆斬將軍,仆斬將軍
+Great Tusk,Colmilargo,Grandizanne,イダイナキバ,Idainakiba,Riesenzahn,Fort-Ivoire,위대한엄니,Tusk,雄伟牙,雄偉牙,雄偉牙
+Scream Tail,Colagrito,Codaurlante,サケブシッポ,Sakebushippo,Brüllschweif,Hurle-Queue,우렁찬꼬리,Tail,吼叫尾,吼叫尾,吼叫尾
+Brute Bonnet,Furioseta,Fungofurioso,アラブルタケ,Araburutake,Wutpilz,Fongus-Furie,사나운버섯,Bonnet,猛恶菇,猛惡菇,猛惡菇
+Flutter Mane,Melenaleteo,Crinealato,ハバタクカミ,Habatakukami,Flatterhaar,Flotte-Mèche,날개치는머리,Mane,振翼发,振翼髮,振翼髮
+Slither Wing,Reptalada,Alirasenti,チヲハウハネ,Chiohauhane,Kriechflügel,Rampe-Ailes,땅을기는날개,Wing,爬地翅,爬地翅,爬地翅
+Sandy Shocks,Pelarena,Peldisabbia,スナノケガワ,Sunanokegawa,Sandfell,Pelage-Sablé,모래털가죽,Shocks,沙铁皮,沙鐵皮,沙鐵皮
+Iron Treads,Ferrodada,Solcoferreo,テツノワダチ,Tetsunowadachi,Eisenrad,Roue-de-Fer,무쇠바퀴,Treads,铁辙迹,鐵轍跡,鐵轍跡
+Iron Bundle,Ferrosaco,Saccoferreo,テツノツツミ,Tetsunotsutsumi,Eisenbündel,Hotte-de-Fer,무쇠보따리,Bundle,铁包袱,鐵包袱,鐵包袱
+Iron Hands,Ferropalmas,Manoferrea,テツノカイナ,Tetsunokaina,Eisenhand,Paume-de-Fer,무쇠손,Hands,铁臂膀,鐵臂膀,鐵臂膀
+Iron Jugulis,Ferrocuello,Colloferreo,テツノコウベ,Tetsunokoube,Eisenhals,Têtes-de-Fer,무쇠머리,Jugulis,铁脖颈,鐵脖頸,鐵脖頸
+Iron Moth,Ferropolilla,Falenaferrea,テツノドクガ,Tetsunodokuga,Eisenfalter,Mite-de-Fer,무쇠독나방,Moth,铁毒蛾,鐵毒蛾,鐵毒蛾
+Iron Thorns,Ferropúas,Spineferree,テツノイバラ,Tetsunoibara,Eisendorn,Épine-de-Fer,무쇠가시,Thorns,铁荆棘,鐵荊棘,鐵荊棘
+Frigibax,Frigibax,Frigibax,セビエ,Sebie,Frospino,Frigodo,드니차,Deunicha,凉脊龙,涼脊龍,涼脊龍
+Arctibax,Arctibax,Arctibax,セゴール,Segōru,Cryospino,Cryodo,드니꽁,Deunikkong,冻脊龙,凍脊龍,凍脊龍
+Baxcalibur,Baxcalibur,Baxcalibur,セグレイブ,Seglaive,Espinodon,Glaivodo,드닐레이브,Deunilleibeu,戟脊龙,戟脊龍,戟脊龍
+Gimmighoul,Gimmighoul,Gimmighoul,コレクレー,Collecurei,Gierspenst,Mordudor,모으령,Moeuryeong,索财灵,索財靈,索財靈
+Gholdengo,Gholdengo,Gholdengo,サーフゴー,Surfugo,Monetigo,Gromago,타부자고,Tabujago,赛富豪,賽富豪,賽富豪
+Wo-Chien,Wo-Chien,Wo-Chien,チオンジェン,Chionjen,Chongjian,Chongjian,총지엔,Chongjien,古简蜗,古簡蝸,古簡蝸
+Chien-Pao,Chien-Pao,Chien-Pao,パオジアン,Paojian,Baojian,Baojian,파오젠,Paojen,古剑豹,古劍豹,古劍豹
+Ting-Lu,Ting-Lu,Ting-Lu,ディンルー,Dinlu,Dinglu,Dinglu,딩루,Dingru,古鼎鹿,古鼎鹿,古鼎鹿
+Chi-Yu,Chi-Yu,Chi-Yu,イーユイ,Īyui,Yuyu,Yuyu,위유이,Wiyui,古玉鱼,古玉魚,古玉魚
+Roaring Moon,Bramaluna,Lunaruggente,トドロクツキ,Todorokutsuki,Donnersichel,Rugit-Lune,고동치는달,Moon,轰鸣月,轟鳴月,轟鳴月
+Iron Valiant,Ferropaladín,Eroeferreo,テツノブジン,Tetsunobujin,Eisenkrieger,Garde-de-Fer,무쇠무인,Valiant,铁武者,鐵武者,鐵武者
+Koraidon,Koraidon,Koraidon,コライドン,Koraidon,Koraidon,Koraidon,코라이돈,Koraidon,故勒顿,故勒頓,故勒頓
+Miraidon,Miraidon,Miraidon,ミライドン,Miraidon,Miraidon,Miraidon,미라이돈,Miraidon,密勒顿,密勒頓,密勒頓
 ,,,,,,,,,,,
 Pound,Destructor,Botta,はたく,Hataku,Klaps,Écras'Face,막치기,Makchigi,拍击,拍擊,拍擊
 Karate Chop,Golpe Kárate,Colpokarate,からてチョップ,Karate Choppu,Karateschlag,Poing Karaté,태권당수,Taegweon Dangsu,空手劈,空手劈,空手劈
