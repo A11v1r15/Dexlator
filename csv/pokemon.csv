@@ -1007,6 +1007,16 @@ Roaring Moon,Bramaluna,Lunaruggente,トドロクツキ,Todorokutsuki,Donnersiche
 Iron Valiant,Ferropaladín,Eroeferreo,テツノブジン,Tetsunobujin,Eisenkrieger,Garde-de-Fer,무쇠무인,Valiant,铁武者,鐵武者,鐵武者
 Koraidon,Koraidon,Koraidon,コライドン,Koraidon,Koraidon,Koraidon,코라이돈,Koraidon,故勒顿,故勒頓,故勒頓
 Miraidon,Miraidon,Miraidon,ミライドン,Miraidon,Miraidon,Miraidon,미라이돈,Miraidon,密勒顿,密勒頓,密勒頓
+Walking Wake,Ondulagua,Acquecrespe,ウネルミナモ,Uneruminamo,Windewoge,Serpente-Eau,굽이치는물결,Gubichineunmulgyeol,波荡水,波盪水,波盪水
+Iron Leaves,Ferroverdor,Fogliaferrea,テツノイサハ,Tetsunoisaha,Eisenblatt,Vert-de-Fer,무쇠잎새,Musoeipsae,铁斑叶,鐵斑葉,鐵斑葉
+Okidogi,Okidogi,Okidogi,イイネイヌ,Iineinu,Boninu,Félicanis,조타구,Jotagu,够赞狗,夠讚狗,夠讚狗
+Munkidori,Munkidori,Munkidori,マシマシラ,Mashimashira,Benesaru,Fortusimia,이야후,Iyahu,愿增猿,願增猿,願增猿
+Fezandipiti,Fezandipiti,Fezandipiti,キチキギス,Kichikigisu,Beatori,Favianos,기로치,Girochi,吉雉鸡,吉雉雞,吉雉雞
+Ogerpon,Ogerpon,Ogerpon,オーガポン,Ogerpon,Ogerpon,Ogerpon,오거폰,Ogeopon,厄诡椪,厄鬼椪,厄鬼椪
+Terapagos,Terapagos,Terapagos,テラパゴス,Terapagos,Terapagos,Terapagos,테라파고스,Terapagoseu,太乐巴戈斯,太樂巴戈斯,太樂巴戈斯
+,,,,,,,,,,,
+Winged King,Reyalado,Realato,ツバサノオウ,Tsubasano'ou,Schwingenkönig,Ailes-Royales,날개의왕,Nalgaeuiwang,翼大王,翼大王,翼大王
+Iron Serpent,Ferromandra,Serpeferrea,テツノオロチ,Tetsuno'orochi,Eisenschlange,Serpent-de-Fer,무쇠이무기,Musoeimugi,铁大蛇,鐵大蛇,鐵大蛇
 ,,,,,,,,,,,
 Pound,Destructor,Botta,はたく,Hataku,Klaps,Écras'Face,막치기,Makchigi,拍击,拍擊,拍擊
 Karate Chop,Golpe Kárate,Colpokarate,からてチョップ,Karate Choppu,Karateschlag,Poing Karaté,태권당수,Taegweon Dangsu,空手劈,空手劈,空手劈
@@ -1848,11 +1858,11 @@ Double Shock,Electropalmas,Doppiolampo,でんこうそうげき,Denkō Sōgeki,Z
 Gigaton Hammer,Martillo Colosal,Granmartello,デカハンマー,Deka Hanmā,Riesenhammer,Marteau Mastoc,거대해머,Geodae Hammer,巨力锤,巨力錘,巨力錘
 Comeuppance,Resarcimiento,Ritorsione,ほうふく,Hōfuku,Vendetta,Vindicte,앙갚음,Anggap-eum,复仇,復仇,復仇
 Aqua Cutter,Tajo Acuático,Idrotaglio,アクアカッター,Akua Kattā,Aquaschnitt,Tranch’Aqua,아쿠아커터,Aqua Cutter,水波刀,水波刀,水波刀
-Blazing Torque,Pirochoque,Turboustione,バーンアクセル,Burn Accel ,Hitzeturbo,Crash Brûlant,번액셀,Burn Axel ,灼热暴冲,灼熱暴衝,灼熱暴衝
-Wicked Torque,Ominochoque,Turbotenebra,ダークアクセル,Dark Accel ,Finsterturbo,Crash Obscur,다크액셀,Dark Axel ,黑暗暴冲,黑暗暴衝,黑暗暴衝
-Noxious Torque,Ponzochoque,Turbotossina,ポイズンアクセル,Poison Accel ,Toxiturbo,Crash Toxique,포이즌액셀,Poison Axel ,剧毒暴冲,劇毒暴衝,劇毒暴衝
-Combat Torque,Pugnachoque,Turborissa,ファイトアクセル,Fight Accel ,Raufturbo,Crash Musclé,파이트액셀,Fight Axel ,格斗暴冲,格鬥暴衝,格鬥暴衝
-Magical Torque,Feerichoque,Turboincanto,マジカルアクセル,Magical Accel ,Zauberturbo,Crash Magique,매지컬액셀,Magical Axel ,魔法暴冲,魔法暴衝,魔法暴衝
+Blazing Torque,Pirochoque,Turboustione,バーンアクセル,Burn Accel,Hitzeturbo,Crash Brûlant,번액셀,Burn Axel,灼热暴冲,灼熱暴衝,灼熱暴衝
+Wicked Torque,Ominochoque,Turbotenebra,ダークアクセル,Dark Accel,Finsterturbo,Crash Obscur,다크액셀,Dark Axel,黑暗暴冲,黑暗暴衝,黑暗暴衝
+Noxious Torque,Ponzochoque,Turbotossina,ポイズンアクセル,Poison Accel,Toxiturbo,Crash Toxique,포이즌액셀,Poison Axel,剧毒暴冲,劇毒暴衝,劇毒暴衝
+Combat Torque,Pugnachoque,Turborissa,ファイトアクセル,Fight Accel,Raufturbo,Crash Musclé,파이트액셀,Fight Axel,格斗暴冲,格鬥暴衝,格鬥暴衝
+Magical Torque,Feerichoque,Turboincanto,マジカルアクセル,Magical Accel,Zauberturbo,Crash Magique,매지컬액셀,Magical Axel,魔法暴冲,魔法暴衝,魔法暴衝
 ,,,,,,,,,,,
 Breakneck Blitz,Carrera Arrolladora,Carica Travolgente,ウルトラダッシュアタック,Urutora Dasshu Atakku,Hyper-Sprintangriff,Turbo-Charge Bulldozer,울트라대시어택,Ultra Dash Attack,究极无敌大冲撞,究極無敵大衝撞,究極無敵大衝撞
 All-Out Pummeling,Ráfaga Demoledora,Iperscarica Furiosa,全力無双激烈拳,Zenryoku Musō Gekiretsu Ken,Fulminante Faustschläge,Combo Hyper-Furie,전력무쌍격렬권,Jeollyeok Mussang Gyeongnyeolgwon,全力无双激烈拳,全力無雙激烈拳,全力無雙激烈拳
