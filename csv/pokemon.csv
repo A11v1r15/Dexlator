@@ -1713,7 +1713,6 @@ Freezy Frost,Glaceoprisma,Scricchiagelo,こちこちフロスト,Kochikochi Furo
 Sparkly Swirl,Sylveotornado,Sbrilluccibufera,きらきらストーム,Kirakira Sutōmu,Glitzersturm,Évo-Fabulo,반짝반짝스톰,Banjjak-Banjjak Storm,亮亮风暴,亮亮風暴,亮亮風暴
 Veevee Volley,Eevimpacto,Eeveempatto,ブイブイブレイク,Buibui Bureiku,Evo-Crash,Évo-Chardasso,브이브이브레이크,Veevee Break,砰砰击破,砰砰擊破,砰砰擊破
 Double Iron Bash,Ferropuño Doble,Pugni Corazzati,ダブルパンツァー,Daburu Panzā,Panzerfäuste,Écrous d'Poing,더블펀처,Double Puncher,钢拳双击,鋼拳雙擊,鋼拳雙擊
-Max Guard,Maxibarriera,Dynabarriera,ダイウォール,Dai Uōru,Dyna-Wall,Gardomax,다이월,Dai Wall,极巨防壁,極巨防壁,極巨防壁
 Dynamax Cannon,Cañón Dinamax,Cannone Dynamax,ダイマックスほう,Daimakkusu Hō,Dynamax-Kanone,Canon Dynamax,다이맥스포,Daimax Po,极巨炮,極巨炮,極巨炮
 Snipe Shot,Disparo Certero,Tiromirato,ねらいうち,Neraiuchi,Präisionsschuss,Tir de Précision,노려맞히기,Noryeo Mathigi,狙击,狙擊,狙擊
 Jaw Lock,Presa Maxilar,Morostretto,くらいつく,Kuraitsuku,Fesselbiss,Croque Fort,물고버티기,Mulgobeotigi,紧咬不放,緊咬不放,緊咬不放
@@ -1727,24 +1726,6 @@ Octolock,Octopresa,Tentacolock,たこがため,Tako Gatame,Octoklammer,Octoprise
 Bolt Beak,Electropico,Beccoshock,でんげきくちばし,Dengeki Kuchibashi,Schockschnabel,Prise de Bec,전격부리,Jeongyeok Buri,电喙,電喙,電喙
 Fishious Rend,Branquibocado,Branchiomorso,エラがみ,Era Gami,Kiemenbiss,Branchicrok,아가미물기,Agamimulgi,鳃咬,鰓咬,鰓咬
 Court Change,Cambio de Cancha,Cambiocampo,コートチェンジ,Kōto Chenji,Seitenwechsel,Change-Côté,코트체인지,Court Change,换场,換場,換場
-Max Flare,Maxignición,Dynafiammata,ダイバーン,Dai Bān,Dyna-Brand,Pyromax,다이번,Dai Burn,极巨火爆,極巨火爆,極巨火爆
-Max Flutterby,Maxinsecto,Dynainsetto,ダイワーム,Dai Wāmu,Dyna-Schwarm,Insectomax,다이웜,Dai Worm,极巨虫蛊,極巨蟲蠱,極巨蟲蠱
-Max Lightning,Maxitormenta,Dynasaetta,ダイサンダー,Dai Sandā,Dyna-Gewitter,Fulguromax,다이썬더,Dai Thunder,极巨闪电,極巨閃電,極巨閃電
-Max Strike,Maxiataque,Dynattacco,ダイアタック,Dai Atakku,Dyna-Angriff,Normalomax,다이어택,Dai Attack,极巨攻击,極巨攻擊,極巨攻擊
-Max Knuckle,Maxipuño,Dynapugno,ダイナックル,Dai Nakkuru,Dyna-Faust,Pugilomax,다이너클,Dai Knuckle,极巨拳斗,極巨拳鬥,極巨拳鬥
-Max Phantasm,Maxiespectro,Dynavuoto,ダイホロウ,Dai Horō,Dyna-Spuk,Spectromax,다이할로우,Dai Hollow,极巨幽魂,極巨幽魂,極巨幽魂
-Max Hailstorm,Maxihelada,Dynagelo,ダイアイス,Dai Aisu,Dyna-Frost,Cryomax,다이아이스,Dai Ice,极巨寒冰,極巨寒冰,極巨寒冰
-Max Ooze,Maxiácido,Dynacorrosione,ダイアシッド,Dai Ashiddo,Dyna-Giftschwall,Toxinomax,다이애시드,Dai Acid,极巨酸毒,極巨酸毒,極巨酸毒
-Max Geyser,Maxichorro,Dynaflusso,ダイストリーム,Dai Sutorīmu,Dyna-Flut,Hydromax,다이스트림,Dai Stream,极巨水流,極巨水流,極巨水流
-Max Airstream,Maxiciclón,Dynajet,ダイジェット,Dai Jetto,Dyna-Düse,Aéromax,다이제트,Dai Jet,极巨飞冲,極巨飛衝,極巨飛衝
-Max Starfall,Maxiestela,Dynafata,ダイフェアリー,Dai Fearī,Dyna-Zauber,Enchantomax,다이페어리,Dai Fairy,极巨妖精,極巨妖精,極巨妖精
-Max Wyrmwind,Maxidraco,Dynadragone,ダイドラグーン,Dai Doragūn,Dyna-Wyrm,Dracomax,다이드라군,Dai Dragoon,极巨龙骑,極巨龍騎,極巨龍騎
-Max Mindstorm,Maxionda,Dynapsiche,ダイサイコ,Dai Saiko,Dyna-Kinese,Psychomax,다이사이코,Dai Psycho,极巨超能,極巨超能,極巨超能
-Max Rockfall,Maxilito,Dynamacigno,ダイロック,Dai Rokku,Dyna-Brocken,Lithomax,다이록,Dai Rock,极巨岩石,極巨岩石,極巨岩石
-Max Quake,Maxitemblor,Dynasisma,ダイアース,Dai Āsu,Dyna-Erdstoß,Sismomax,다이어스,Dai Earth,极巨大地,極巨大地,極巨大地
-Max Darkness,Maxisombra,Dynatenebre,ダイアーク,Dai Dāku,Dyna-Dunkel,Sinistromax,다이아크,Dai Ark,极巨恶霸,極巨惡霸,極巨惡霸
-Max Overgrowth,Maxiflora,Dynaflora,ダイソウゲン,Dai Sōgen,Dyna-Flora,Phytomax,다이그래스,Dai Grass,极巨草原,極巨草原,極巨草原
-Max Steelspike,Maximetal,Dynametallo,ダイスチル,Dai Suchiru,Dyna-Stahlzacken,Métallomax,다이스틸,Dai Steel,极巨钢铁,極巨鋼鐵,極巨鋼鐵
 Clangorous Soul,Estruendo Escama,Dracofonia,ソウルビート,Sōru Bīto,Seelentanz,Dracacophonie,소울비트,Soul Beat,魂舞烈音爆,魂舞烈音爆,魂舞烈音爆
 Body Press,Plancha Corporal,Schiacciacorpo,ボディプレス,Bodi Puresu,Body Press,Big Splash,바디프레스,Body Press,扑击,撲擊,撲擊
 Decorate,Decoración,Decorazione,デコレーション,Dekorēshon,Verzierung,Nappage,데코레이션,Decoration,装饰,裝飾,裝飾
@@ -1915,6 +1896,25 @@ Let's Snuggle Forever,Somanta Amistosa,Dolcesacco di Botte,ぽかぼかフレン
 Splintered Stormshards,Tempestad Rocosa,Litotempesta Radiale,ラジアルエッジストーム,Rajiaru Ejjistōmu,Fataler Steinregen,Hurlement des Roches-Lames,레이디얼에지스톰,Radial Edgestorm,狼啸石牙飓风暴,狼嘯石牙颶風暴,狼嘯石牙颶風暴
 Clangorous Soulblaze,Estruendo Implacable,Dracofonia Divampante,ブレイジングソウルビート,Bureijingu Sōrubīto,Rasselnder Seelentanz,Dracacophonie Flamboyante,브레이징소울비트,Blazing Soulbeat,炽魂热舞烈音爆,熾魂熱舞烈音爆,熾魂熱舞烈音爆
 ,,,,,,,,,,,
+Max Guard,Maxibarriera,Dynabarriera,ダイウォール,Dai Uōru,Dyna-Wall,Gardomax,다이월,Dai Wall,极巨防壁,極巨防壁,極巨防壁
+Max Flare,Maxignición,Dynafiammata,ダイバーン,Dai Bān,Dyna-Brand,Pyromax,다이번,Dai Burn,极巨火爆,極巨火爆,極巨火爆
+Max Flutterby,Maxinsecto,Dynainsetto,ダイワーム,Dai Wāmu,Dyna-Schwarm,Insectomax,다이웜,Dai Worm,极巨虫蛊,極巨蟲蠱,極巨蟲蠱
+Max Lightning,Maxitormenta,Dynasaetta,ダイサンダー,Dai Sandā,Dyna-Gewitter,Fulguromax,다이썬더,Dai Thunder,极巨闪电,極巨閃電,極巨閃電
+Max Strike,Maxiataque,Dynattacco,ダイアタック,Dai Atakku,Dyna-Angriff,Normalomax,다이어택,Dai Attack,极巨攻击,極巨攻擊,極巨攻擊
+Max Knuckle,Maxipuño,Dynapugno,ダイナックル,Dai Nakkuru,Dyna-Faust,Pugilomax,다이너클,Dai Knuckle,极巨拳斗,極巨拳鬥,極巨拳鬥
+Max Phantasm,Maxiespectro,Dynavuoto,ダイホロウ,Dai Horō,Dyna-Spuk,Spectromax,다이할로우,Dai Hollow,极巨幽魂,極巨幽魂,極巨幽魂
+Max Hailstorm,Maxihelada,Dynagelo,ダイアイス,Dai Aisu,Dyna-Frost,Cryomax,다이아이스,Dai Ice,极巨寒冰,極巨寒冰,極巨寒冰
+Max Ooze,Maxiácido,Dynacorrosione,ダイアシッド,Dai Ashiddo,Dyna-Giftschwall,Toxinomax,다이애시드,Dai Acid,极巨酸毒,極巨酸毒,極巨酸毒
+Max Geyser,Maxichorro,Dynaflusso,ダイストリーム,Dai Sutorīmu,Dyna-Flut,Hydromax,다이스트림,Dai Stream,极巨水流,極巨水流,極巨水流
+Max Airstream,Maxiciclón,Dynajet,ダイジェット,Dai Jetto,Dyna-Düse,Aéromax,다이제트,Dai Jet,极巨飞冲,極巨飛衝,極巨飛衝
+Max Starfall,Maxiestela,Dynafata,ダイフェアリー,Dai Fearī,Dyna-Zauber,Enchantomax,다이페어리,Dai Fairy,极巨妖精,極巨妖精,極巨妖精
+Max Wyrmwind,Maxidraco,Dynadragone,ダイドラグーン,Dai Doragūn,Dyna-Wyrm,Dracomax,다이드라군,Dai Dragoon,极巨龙骑,極巨龍騎,極巨龍騎
+Max Mindstorm,Maxionda,Dynapsiche,ダイサイコ,Dai Saiko,Dyna-Kinese,Psychomax,다이사이코,Dai Psycho,极巨超能,極巨超能,極巨超能
+Max Rockfall,Maxilito,Dynamacigno,ダイロック,Dai Rokku,Dyna-Brocken,Lithomax,다이록,Dai Rock,极巨岩石,極巨岩石,極巨岩石
+Max Quake,Maxitemblor,Dynasisma,ダイアース,Dai Āsu,Dyna-Erdstoß,Sismomax,다이어스,Dai Earth,极巨大地,極巨大地,極巨大地
+Max Darkness,Maxisombra,Dynatenebre,ダイアーク,Dai Dāku,Dyna-Dunkel,Sinistromax,다이아크,Dai Ark,极巨恶霸,極巨惡霸,極巨惡霸
+Max Overgrowth,Maxiflora,Dynaflora,ダイソウゲン,Dai Sōgen,Dyna-Flora,Phytomax,다이그래스,Dai Grass,极巨草原,極巨草原,極巨草原
+Max Steelspike,Maximetal,Dynametallo,ダイスチル,Dai Suchiru,Dyna-Stahlzacken,Métallomax,다이스틸,Dai Steel,极巨钢铁,極巨鋼鐵,極巨鋼鐵
 G-Max Vine Lash,Gigalianas,Gigasferzata,キョダイベンタツ,Kyodai Bentatsu,Giga-Geißel,Fouet G-Max,거다이편달,Geodai Pyeondal,超极巨灰飞鞭灭,超極巨灰飛鞭滅,超極巨灰飛鞭滅
 G-Max Wildfire,Gigallamarada,Gigavampa,キョダイゴクエン,Kyodai Gokuen,Giga-Feuerflug,Fournaise G-Max,거다이옥염,Geodai Og-yeom,超极巨地狱灭焰,超極巨地獄滅焰,超極巨地獄滅焰
 G-Max Cannonade,Gigacañonazo,Gigacannonata,キョダイホウゲキ,Kyodai Hōgeki,Giga-Beschuss,Canonnade G-Max,거다이포격,Geodai Pogyeok,超极巨水炮轰灭,超極巨水砲轟滅,超極巨水砲轟滅
