@@ -1017,9 +1017,13 @@ Munkidori,Munkidori,Munkidori,マシマシラ,Mashimashira,Benesaru,Fortusimia,�
 Fezandipiti,Fezandipiti,Fezandipiti,キチキギス,Kichikigisu,Beatori,Favianos,기로치,Girochi,吉雉鸡,吉雉雞,吉雉雞
 Ogerpon,Ogerpon,Ogerpon,オーガポン,Ogerpon,Ogerpon,Ogerpon,오거폰,Ogeopon,厄诡椪,厄鬼椪,厄鬼椪
 Archaludon,Archaludon,Archaludon,ブリジュラス,Briduras,Briduradon,Pondralugon,브리두라스,Beuriduraseu,铝钢桥龙,鋁鋼橋龍,鋁鋼橋龍
+Hydrapple,Hydrapple,Hydrapple,カミツオロチ,Kamitsuorochi,Hydrapfel,Pomdorochi,과미드라,Gwamideura,蜜集大蛇,蜜集大蛇,蜜集大蛇 
+Gouging Fire,Flamariete,Vampeaguzze,ウガツホムラ,Ugatsuhomura,Keilflamme,Feu-Perçant,꿰뚫는화염,Kkwettulleunhwayeom,破空焰,破空焰,破空焰 
 Raging Bolt,Electrofuria,Furiatonante,タケルライコ,Takeruraiko,Furienblitz,Ire-Foudre,날뛰는우레,Nalttwineun-ure,猛雷鼓,猛雷鼓,猛雷鼓
+Iron Boulder,Ferromole,Massoferreo,テツノイワオ,Tetsunoiwao,Eisenfels,Roc-de-Fer,무쇠암석,Musoeamseok,铁磐岩,鐵磐岩,鐵磐岩 
 Iron Crown,Ferrotesta,Capoferreo,テツノカシラ,Tetsunokashira,Eisenhaupt,Chef-de-Fer,무쇠감투,Musoegamtu,铁头壳,鐵頭殼,鐵頭殼
 Terapagos,Terapagos,Terapagos,テラパゴス,Terapagos,Terapagos,Terapagos,테라파고스,Terapagoseu,太乐巴戈斯,太樂巴戈斯,太樂巴戈斯
+Pecharunt,Pecharunt,Pecharunt,モモワロウ,Momowarō,Infamomo,Pêchaminus,복숭악동,Boksung-akdong,桃歹郎,桃歹郎,桃歹郎 
 ,,,,,,,,,,,
 Winged King,Reyalado,Realato,ツバサノオウ,Tsubasano'ou,Schwingenkönig,Ailes-Royales,날개의왕,Nalgaeuiwang,翼大王,翼大王,翼大王
 Iron Serpent,Ferromandra,Serpeferrea,テツノオロチ,Tetsuno'orochi,Eisenschlange,Serpent-de-Fer,무쇠이무기,Musoeimugi,铁大蛇,鐵大蛇,鐵大蛇
@@ -1855,10 +1859,20 @@ Matcha Gotcha,Cañón Batidor,Spruzzatè,シャカシャカほう,Shakashaka-Hō
 Syrup Bomb,Bomba Caramelo,Bomba Sciroppata,みずあめボム,Mizuame Bomu,Sirupbombe,Bombe au Sirop,시럽봄,Sireopbom,糖浆炸弹,糖漿炸彈,糖漿炸彈
 Ivy Cudgel,Garrote Liana,Clava di Liane,ツタこんぼう,Tsuta Konbō,Rankenkeule,Massue Liane,덩굴방망이,Deonggulbangmangi,棘藤棒,棘藤棒,棘藤棒
 Electro Shot,Electrorrayo,Elettroraggio,エレクトロビーム,Erekutoro Bīmu,Stromstrahl,Fulgurayon,일렉트로빔,Electrobeam,电光束,電光束,電光束
+Tera Starstorm,Teraclúster,Teracluster,テラクラスター,Tera Kurasutā,Tera-Sternhagel,Pluie Térastrale,테라클러스터,Tera Keulleoseuteo,晶光星群,晶光星群,晶光星群 
+Fickle Beam,Láser Veleidoso,Irregolaser,きまぐレーザー,Kimagu Rēzā,Launenlaser,Laser Hasard,변덕레이저,Byeondeok Leijeo,隨機光,隨機光,隨機光
+Burning Bulwark,Llama Protectora,Egida Ignea,かえんのまもり,Kaen no mamori,Flammenschild,Rempart Brûlant,화염의수호,Hwayeom-ui Suho,火焰守护,火焰守護,火焰守護 
 Thunderclap,Relámpago Súbito,Saetta,じんらい,Jinrai,Sturmblitz,Vif Éclair,질풍신뢰,Jilpung Silloe,迅雷,迅雷,迅雷
+Mighty Cleave,Filo Potente,Taglio Poderoso,パワフルエッジ,Pawafuru Ejji,Wuchtklinge,Lame Puissante,파워풀에지,Pawopul Eji,强刃攻击,強刃攻擊,強刃攻擊 
 Tachyon Cutter,Tajo Taquión,Tachiontaglio,タキオンカッター,Takion Kattā,Tachyon-Schnitt,Lame Tachyonique,타키온커터,Takion Keoteo,迅子利刃,迅子利刃,迅子利刃
-Upper Hand,Palma Rauda,Colpo di Mano,はやてがえし,Hayate Gaeshi,Schnellkonter,Prio-Parade,기선제압,Giseon Jeap,快手还击,快手還擊,快手還擊
+Hard Press,Prensa Metálica,Pressa d'Acciaio,ハードプレス,Hādo Puresu,Stahlpresse,Pression Extrême,하드프레스,Hadeu Peureseu,硬压,硬壓,硬壓 
+Dragon Cheer,Bramido Dragón,Grido del Drago,ドラゴンエール,Doragon ēru,Drachenschrei,Cri Draconique,드래곤옐,Deuraegon Yel,龙声鼓舞,龍聲鼓舞,龍聲鼓舞 
+Alluring Voice,Canto Encantador,Ammaliavoce,みわくのボイス,Miwaku no boisu,Lockstimme,Voix Envoûtante,매혹의보이스,Maehok-ui Boiseu,魅诱之声,魅誘之聲,魅誘之聲 
+Temper Flare,Cólera Ardiente,Rabbia Bruciante,やけっぱち,Yakeppachi,Frustflamme,Indignition,열불내기,Yeolbullaegi,豁出去,豁出去,豁出去 
+Supercell Slam,Plancha Voltaica,Elettrotuffo,サンダーダイブ,Sandā Daibu,Donnerstoß,Volt Assaut,썬더다이브,Sseondeo Daibeu,闪电强袭,閃電強襲,閃電強襲 
 Psychic Noise,Psicorruido,Psicorumore,サイコノイズ,Saiko Noizu,Psycholärm,Dissonance Psy,사이코노이즈,Saikonoijeu,精神噪音,精神噪音,精神噪音
+Upper Hand,Palma Rauda,Colpo di Mano,はやてがえし,Hayate Gaeshi,Schnellkonter,Prio-Parade,기선제압,Giseon Jeap,快手还击,快手還擊,快手還擊
+Malignant Chain,Cadena Virulenta,Intossicatena,じゃどくのくさり,Jadoku no kusari,Giftkettung,Chaîne Malsaine,악독사슬,Akdok Saseul,邪毒锁链,邪毒鎖鏈,邪毒鎖鏈 
 ,,,,,,,,,,,
 Breakneck Blitz,Carrera Arrolladora,Carica Travolgente,ウルトラダッシュアタック,Urutora Dasshu Atakku,Hyper-Sprintangriff,Turbo-Charge Bulldozer,울트라대시어택,Ultra Dash Attack,究极无敌大冲撞,究極無敵大衝撞,究極無敵大衝撞
 All-Out Pummeling,Ráfaga Demoledora,Iperscarica Furiosa,全力無双激烈拳,Zenryoku Musō Gekiretsu Ken,Fulminante Faustschläge,Combo Hyper-Furie,전력무쌍격렬권,Jeollyeok Mussang Gyeongnyeolgwon,全力无双激烈拳,全力無雙激烈拳,全力無雙激烈拳
